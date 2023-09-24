@@ -1,0 +1,168 @@
+.wrapper{
+    border: .5px solid black;
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-bottom: 3%;
+    margin-right: 3%;
+    overflow: hidden;
+    background-color: lightgrey;
+}
+body {
+    background-color: #F4FDFF;
+}
+a{
+    text-decoration: none;
+    color:blue;
+    word-wrap: break-word;
+}
+.nav{
+    border: .5px solid black;
+    margin-top: 3%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    max-width: 90%;
+    background-color: white;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+  }
+  
+nav ul li {
+    float: left;
+  }
+  
+nav ul li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+nav  li a:hover {
+    background-color: lightgrey;
+  }
+
+.heading{
+    max-width: 35%;
+    margin-left: 3%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    float:left;
+    min-width: 20%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+.logo_heading{
+   
+    min-width: 300px;
+    float: right;
+    margin-right: 8%;
+    max-width: 40%;
+    margin-top: 2%;
+}
+.header{
+    border: .5px solid black;
+    margin-top: 3%;
+    margin-right: 5%;
+    margin-left: 5%;
+    max-width: 90%;
+    background-color: white;
+    overflow:hidden;
+}
+
+.background {
+    border: .5px solid black;
+    max-width: 50%;
+    margin-right: 5%;
+    float:right;
+    background-color: white;
+}
+.background_wrapper{
+    max-width: 55%;
+    margin-left: 5%;
+    overflow:hidden;
+}
+aside{
+    font-size: 20px;
+    margin-left: 5px;
+}
+.photo_background{
+    float: left;
+    max-width: 40%;
+    }    
+.education{
+    border: .5px solid black;
+    width: 52%; 
+    margin-left: 5%;
+    margin-top: 5%;
+    background-color: white;
+}
+.skills{
+    border: .5px solid black;
+    width: 52%; 
+    margin-left: 5%;
+    margin-top: 5%;
+    background-color: white;
+}
+h1{
+    font-size: 35px;
+    margin-top: 5%;
+}
+h2{
+    margin-left: 3%;
+    font-size: 22px;
+}
+h3{
+    margin-left: 30px;
+}
+p{
+    font-size: 20px;
+    margin-left: 30px;
+    padding-right: 4%; 
+}
+.hobbies{
+    border: .5px solid black;
+    width: 52%; 
+    margin-left: 5%;
+    margin-top: 5%;
+    background-color: white;
+}
+.work_experience{
+    border: .5px solid black;
+    width: 52%; 
+    margin-left: 5%;
+    margin-top: 5%;
+    background-color: white;
+}
+ul li{
+    font-size: 20px;
+    padding-right: 5%;
+    word-wrap: break-word;
+}
+.recommendations{
+    border: .5px solid black;
+    width: 30%;
+    margin-right: 5%;
+    float: right;
+    background-color: white;
+}
+.footer{
+    border: .5px solid black;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: white;
+}
+.footer_text{
+    margin-left: 20px;
+    margin-top: 2px;
+}
